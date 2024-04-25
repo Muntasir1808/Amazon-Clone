@@ -1,6 +1,6 @@
 # Amazon Clone
 
-## A clone of the Amazon website.
+## A clone of the Amazon website. To check out the link [click here.](https://muntasir-amazon-08.netlify.app/)
 
 ## Technologies used :
    1. HTML
