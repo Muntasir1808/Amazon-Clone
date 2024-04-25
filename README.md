@@ -1,21 +1,12 @@
 # Amazon Clone
 
-## A clone of the Amazon website for practicing web development skills.
+## A clone of the Amazon website.
 
 ## Technologies used :
    1. HTML
    2. CSS
    3. JAVASCRIPT
 
-## Author :
-   Akash Deep
-   <br>
-   Email: ad3500476@gmail.com
-   <br>
-   LinkedIn : https://www.linkedin.com/in/akashdeep023/
-
-## Website Link :
-   url : https://akashdeep023.github.io/Amazon-Clone/
 
 ## Ex- Image
 ### Home Page
@@ -30,4 +21,4 @@
 ![Screenshot 2023-12-19 221136](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/2ee9323f-d01a-43af-b522-45afa1be6b06)
 
 
-### Thanks for visit... 😊😊😊
+
